@@ -11,7 +11,6 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             //change code
-            //faskjgfkjasfkjdgafkjgskljfhjaklfghlauisirpfs hisvfsiybb toig;lock 
-        }
+            Console.WriteLine();
     }
 }
